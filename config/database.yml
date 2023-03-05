@@ -13,8 +13,10 @@ test:
 
 production:
 adapter : postgresql
-database : ''
-host : ''
-port : ''
-pool : ''
+database : railway
+usename : postgres
+password : kWAetPWrZwaL4tfGHz2M
+host : containers-us-west-108.railway.app
+port : 5793
+pool : 5
 
